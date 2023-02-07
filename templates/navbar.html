@@ -1,5 +1,9 @@
 <a href="/">
     <H1>LOGO</H1>  
 </a>
+    <form action="{% url 'home' %}" method="get">
+        <input type="text" name="q" placeholder="Enter Room">
+    </form>
 
+    <a href="{% url 'login' %}">Login</a>
 <hr>
