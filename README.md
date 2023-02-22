@@ -9,4 +9,4 @@ Python
 Django
 SQLite
 
-Credit: Traversy Media Youtube
+Credit: Dennis Ivy Youtube
