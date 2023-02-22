@@ -8,3 +8,5 @@ Javascript
 Python
 Django
 SQLite
+
+Credit: Traversy Media Youtube
